@@ -1,0 +1,5 @@
+# Core dependencies
+# Add specific versions of packages when needed
+# Example:
+# pytest>=7.0.0
+# requests>=2.28.0
